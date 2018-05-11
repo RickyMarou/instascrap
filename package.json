@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "scrap an instagram profile",
   "main": "index.js",
-  "author": "Marwan Zibaoui",
+  "author": "rickymarou",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
